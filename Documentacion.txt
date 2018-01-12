@@ -1,0 +1,50 @@
+Back-end
+
+-Se realizo el API  REST basandose en los videos de Fazt en su canal de youtube:
+Link: https://www.youtube.com/watch?v=-AoMh8lhgbs&t=354s
+
+En donde especifa de una manera clara e informativa como llevar la creacion de la misma.
+
+-Para la ejecucion del API REST es necesario tener instalado el Node.js y luego iniciarlo en la consola 
+- Se requiere la instalcion de los paquetes (npm) mediante la consola y el comando (npm init --yes) en el archivo sobre el cual se trabajara.
+Ejm: En consola:
+              C:\Users\ACHURY\Documents\mysql-rest npm init --yes
+
+
+-Es necesario instalar algunos modulos para trabajar en el API tambie por el comando de npm , los modulos a instalar son : express, body-parser,morgan,mysql.
+Ejm:En Consola :
+               C:\Users\ACHURY\Documents\mysql-rest npm i express body-parser morgan mysql
+
+-Para ejecutar el API primero se guardan los archivos o "salvar", luego en la consola se ejecuta el programa mediante el comando "node"(Ejmpl:C:\Users\ACHURY\Documents\mysql-rest node app.js ) y posteriormente se procede a ir al navegador y colocar Localhost:8080/users (en nuestro caso) 
+
+-Se saco referencias sobre los modulos en paginas de interes .
+---Morgan: Link->https://www.npmjs.com/package/morgan
+---Body Parser: Link->https://www.npmjs.com/package/body-parser
+---Express: Link->https://www.npmjs.com/package/express
+---Mysql: Link->https://www.npmjs.com/package/mysql
+
+---Framewor Express: Link->https://expressjs.com/
+
+
+
+
+
+Front-end
+
+-Tuvimos ciertos problemas al conectar el Front con el API, tuvimos que recurrir a el implemento de PHP para lograr la conexion .(Pedimos disculpas por este inconveniente)
+
+-Es necesario que el front se encuentre en la carpeta wamp\www\Front-end de Wampserver e ingresar por el navegador por Localhost para poder visualizar correctamente la interfaz.
+
+-Se uso el implemento de HTML,PHP,CSS con la ayuda y asistencia de paginas web para implementar ciertos codigos y etiquetas .
+Paginas Consultadas:
+Link->https://www.w3schools.com/ (HTML)
+Link->https://www.w3schools.com/css/ (CSS)
+Linkk->http://php.net/manual/es/faq.html.php
+
+Videos en Youtube:
+Link->https://www.youtube.com/watch?v=Rhzk5h7tzxo
+Link-> https://www.youtube.com/watch?v=PR3pHbLPv20
+
+ 
+
+Nos disculpamos de ante mano  por los inconvenientes,mi compaeñero no tenia internet en su casa desde hace 3 meses y dependiamos de una computadora para todo el proyecto.Falta la conexion mediante Ajax.Una vez mas ,nos disculpamos .Gracias.
